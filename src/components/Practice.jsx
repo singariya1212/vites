@@ -5,6 +5,7 @@ const Practice = () => {
     <div>
       <h1>hello</h1>
       <h3>hrllo2</h3>
+      <h3>hrllo3</h3>
     </div>
   )
 }
