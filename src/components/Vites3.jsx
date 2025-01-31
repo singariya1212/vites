@@ -5,6 +5,8 @@ const Vites3 = () => {
     <div>
    jay ho   hoooo
    nnnnnnn
+   adeede new line also
+   
     </div>
   )
 }
