@@ -5,6 +5,7 @@ const New = () => {
     <div>
       handle saaa
       handle new
+      new2
     </div>
   )
 }
