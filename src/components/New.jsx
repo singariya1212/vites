@@ -4,6 +4,7 @@ const New = () => {
   return (
     <div>
       handle saaa
+      handle new
     </div>
   )
 }
