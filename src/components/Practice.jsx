@@ -8,7 +8,7 @@ const Practice = () => {
       <h3>hrllo3</h3>
       <h3>hrllo4
       hrllo5
-      hello6
+      hello66
       </h3>
 
     </div>
